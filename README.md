@@ -5,6 +5,7 @@ This script transform the face and background to the images in assets/faces and 
 the rotation of time of each image is:
 - background: 3min
 - face: 5min
+
 ![Image of output camera](assets/example.png)
 
 # Use
